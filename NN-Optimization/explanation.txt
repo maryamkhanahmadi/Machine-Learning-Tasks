@@ -1,0 +1,1 @@
+In this reprository I study different methods for optimizing the neural network functionality.
